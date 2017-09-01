@@ -1,9 +1,4 @@
-    /*
-        NAME:AADHAR BANSAL
-        ROLL NO:01
-        SEC:A
-        SEM:CS-4
-    */
+    
 
 
     #include<stdio.h>
